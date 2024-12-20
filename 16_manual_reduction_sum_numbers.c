@@ -9,7 +9,7 @@ main ()
 {
   long arr[N];
   long add = 0;
-  long sum[T];
+  long sum=0;
   for (long i = 0; i < N; i++)
     {
       arr[i] = i + 1;
@@ -28,18 +28,12 @@ main ()
     for (long i = start; i < end; i++)
       {
 	localsum += arr[i];
-	//  printf("%d\n ",localsum);
       }
-    sum[tid] = localsum;
-    //printf("%d\n ",sum[tid]);
+  #pragma omp critical
+    sum += localsum;
   }
 
 
-  for (int i = 0; i < T; i++)
-    {
-      add += sum[i];
-    }
-
-  printf ("Sum using manual reduction: %ld\n", add);
+  printf ("Sum using manual reduction: %ld\n", sum);
   return 0;
 }
