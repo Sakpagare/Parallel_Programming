@@ -11,4 +11,5 @@ main ()
       printf ("thread\t%d\t:\ti\t%d\n", omp_get_thread_num (), i);
       
     }
+    return 0;
 }
