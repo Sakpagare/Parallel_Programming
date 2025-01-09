@@ -1,0 +1,65 @@
+[33mcommit eb932048a620a445c72feb4c584c91d132319851[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Sakpagare <sakshipagare717@gmail.com>
+Date:   Fri Jan 10 00:05:18 2025 +0530
+
+    all1 openmp codes
+
+[33mcommit 7e1d6fcc18533f15339a53cab25cbfa005df791c[m
+Author: Sakpagare <sakshipagare717@gmail.com>
+Date:   Fri Jan 10 00:04:39 2025 +0530
+
+    all openmp codes
+
+[33mcommit 7bae49947efba5a80b11d23e241e708cc9c1974d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: vishalgujare27 <71836388+vishalgujare27@users.noreply.github.com>
+Date:   Thu Jan 9 16:36:30 2025 +0530
+
+    omp task
+
+[33mcommit ca1441b96b90f7b9e22843fa9b02288a1ae6f831[m
+Author: vishalgujare27 <71836388+vishalgujare27@users.noreply.github.com>
+Date:   Mon Dec 23 18:33:37 2024 +0530
+
+    atomic operations , nested parallel, sections
+
+[33mcommit 3fd278d2cd5d6a1a6ac601b295a0f290d744d495[m
+Author: vishalgujare27 <71836388+vishalgujare27@users.noreply.github.com>
+Date:   Fri Dec 20 16:58:14 2024 +0530
+
+    runtime schedule
+
+[33mcommit b1c66214ecd80cb1e3e17e6853c355ec5431b8a3[m
+Author: vishalgujare27 <71836388+vishalgujare27@users.noreply.github.com>
+Date:   Fri Dec 20 16:41:56 2024 +0530
+
+    runtime scheduling
+
+[33mcommit ee4e574fb3e00dba02a4d30289f1560b5319f3af[m
+Author: vishalgujare27 <71836388+vishalgujare27@users.noreply.github.com>
+Date:   Fri Dec 20 15:02:34 2024 +0530
+
+    scheduling types
+
+[33mcommit bfb3c8e4f733d2ed47df28fb43b3228f74046320[m
+Author: vishalgujare27 <71836388+vishalgujare27@users.noreply.github.com>
+Date:   Fri Dec 20 07:38:43 2024 +0530
+
+    parallel data creation
+
+[33mcommit be3529776f9407e777232ecf2be754c64418ca16[m
+Author: vishalgujare27 <71836388+vishalgujare27@users.noreply.github.com>
+Date:   Thu Dec 19 11:09:26 2024 +0530
+
+    last private update nad critical section
+
+[33mcommit 7fca2f8a9493ddd3610bc3e3ded2cef0a4f57e55[m
+Author: VishalGujare <vishalgujare27@.gmail.com>
+Date:   Thu Dec 19 10:01:41 2024 +0530
+
+    First push to remote repo
+
+[33mcommit e5908fdad0b78080980e577d0b690876c2ca23e7[m
+Author: vishalgujare27 <71836388+vishalgujare27@users.noreply.github.com>
+Date:   Thu Dec 19 09:57:53 2024 +0530
+
+    Initial commit
